@@ -1,0 +1,12 @@
+echo "enter hero name"
+hero_name="Rohit"
+echo "hername is $hero_name"
+movie_name="abc"
+echo "movie is  $movie_name"
+language="english"
+echo "language is $language"
+price="20"
+echo "price is $price"
+date_release="20/10/2023"
+echo "date of release $date_release"
+
